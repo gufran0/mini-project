@@ -1,0 +1,25 @@
+body{
+  background-color: #c1c1c1;
+}
+.container{
+    height :300px;
+    width : 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center the page horizontally */
+    align-items: center; /* Center the page vertically */
+    font-family: 'Lato', sans-serif;
+  
+  
+  }
+  
+  #display{
+    width : 100%;
+    font-size: 72px;
+    text-align: center;
+    margin: 0px auto;
+  }
+  
+  .buttons{
+    text-align: center;
+  }
